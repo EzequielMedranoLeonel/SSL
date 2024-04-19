@@ -3,7 +3,7 @@
 En este repositorio encontrarás mis tps individuales resueltos de la materia Sintaxis y Semántica de los Lenguajes de la UTN FRBA del año 2024.
 
 
-------------
+--------------
 
 
 ### Datos de la cursada
@@ -14,7 +14,7 @@ En este repositorio encontrarás mis tps individuales resueltos de la materia Si
 
 
 
--------------
+--------------
 
 ### ¿Quién soy?
 
