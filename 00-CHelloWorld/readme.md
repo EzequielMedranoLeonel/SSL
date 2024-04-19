@@ -2,9 +2,9 @@ Bienvenido a mi tp0!
 
 El enunciado completo del tp0 es el siguiente:
 
-https://aulasvirtuales.frba.utn.edu.ar/mod/assign/view.php?id=1563183
+ https://aulasvirtuales.frba.utn.edu.ar/mod/assign/view.php?id=1563183
 
-Es necesario estar matriculado en el aula virtual "2024 - Sintaxis y Semántica de los Lenguajes K2152" de la UTN FRBA para acceder al link.
+ Es necesario estar matriculado en el aula virtual "2024 - Sintaxis y Semántica de los Lenguajes K2152" de la UTN FRBA para acceder al link.
 
 Objetivos del tp0:
 
